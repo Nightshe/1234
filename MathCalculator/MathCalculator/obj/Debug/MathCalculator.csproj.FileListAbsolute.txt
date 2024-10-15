@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Labs\MathCalculator\MathCalculator\bin\Debug\MathCalculator.exe.config
+C:\Users\ASUS\Desktop\Labs\MathCalculator\MathCalculator\bin\Debug\MathCalculator.exe
+C:\Users\ASUS\Desktop\Labs\MathCalculator\MathCalculator\bin\Debug\MathCalculator.pdb
+C:\Users\ASUS\Desktop\Labs\MathCalculator\MathCalculator\obj\Debug\MathCalculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Labs\MathCalculator\MathCalculator\obj\Debug\MathCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Labs\MathCalculator\MathCalculator\obj\Debug\MathCalculator.exe
+C:\Users\ASUS\Desktop\Labs\MathCalculator\MathCalculator\obj\Debug\MathCalculator.pdb
