@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Labs\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\ASUS\Desktop\Labs\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\ASUS\Desktop\Labs\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\ASUS\Desktop\Labs\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Labs\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Labs\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\ASUS\Desktop\Labs\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
